@@ -182,6 +182,8 @@ The test script uses Node.js built-in `fetch` and validates all required scenari
 
 ## Running with Docker
 
+> Make sure you are in the project root directory where the `Dockerfile` is located before running the following commands.
+
 Build the Docker image:
 
 ```bash
